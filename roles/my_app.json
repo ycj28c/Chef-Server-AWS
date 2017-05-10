@@ -1,0 +1,6 @@
+{
+  "name": "my_app",
+  "run_list": [
+    "recipe[tomcat]"
+  ]
+}
