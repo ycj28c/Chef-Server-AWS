@@ -1,3 +1,11 @@
 {
-  "name": "aws-tomcat-env"
+  "name": "aws-tomcat-env",
+  "default_attributes": {
+    "java": {
+      "install_flavor": "oracle",
+      "accept_license_agreement": true,
+      "java_home": "/usr/java/insight_jdk",
+      "jdk_version": "8"
+    }
+  }
 }
