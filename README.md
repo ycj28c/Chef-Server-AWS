@@ -1,5 +1,5 @@
 Purpose
--------------------
+===============
 The chef workstation cookbook for my AWS management
 
 The chef-repo
