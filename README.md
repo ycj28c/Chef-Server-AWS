@@ -4,10 +4,10 @@ The chef workstation cookbook for my AWS management
 
 My Blog
 ===============
-[Install Chef Server And Workstation(1)](https://ycj28c.github.io/devops/2017/05/03/install-chef-server-workstation(1))
-[CHEF COOKBOOK MANAGEMENT(2)](https://ycj28c.github.io/devops/2017/05/09/chef-cookbook-management(2))
-[CHEF HOW TO USE COOKBOOK(3)](https://ycj28c.github.io/devops/2017/05/10/chef-how-to-use-cookbook(3))
-[CHEF WRITE YOUR OWN COOKBOOK(4)](https://ycj28c.github.io/devops/2017/05/11/chef-write-your-own-cookbook(4))
+* [Install Chef Server And Workstation(1)](https://ycj28c.github.io/devops/2017/05/03/install-chef-server-workstation(1))
+* [CHEF COOKBOOK MANAGEMENT(2)](https://ycj28c.github.io/devops/2017/05/09/chef-cookbook-management(2))
+* [CHEF HOW TO USE COOKBOOK(3)](https://ycj28c.github.io/devops/2017/05/10/chef-how-to-use-cookbook(3))
+* [CHEF WRITE YOUR OWN COOKBOOK(4)](https://ycj28c.github.io/devops/2017/05/11/chef-write-your-own-cookbook(4))
 
 The chef-repo
 ===============
