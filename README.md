@@ -33,6 +33,10 @@ A cookbook is the fundamental unit of configuration and policy distribution. A s
 
 For more information about cookbooks, see the example files in the `starter` cookbook.
 
+Nodes
+---------
+For security concern, not expose the chef node information here
+
 Roles
 -----
 Roles provide logical grouping of cookbooks and other roles. A sample role can be found at `roles/starter.rb`.
